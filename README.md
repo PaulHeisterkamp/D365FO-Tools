@@ -6,5 +6,8 @@ All tools are included in the package/model D365FO-Tool and you can find a separ
 # Get started 
 On a developer VM map the folder XYZ to your metadata folder (e. g. C:/AosService/PackageLocalDirectory) and map the Projects folder to your projects folder. 
 
+# Tools
+## XYZ
+
 # Warrenty
 The code comes without any warranty.
